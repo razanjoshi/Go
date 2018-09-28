@@ -17,3 +17,11 @@ func main() {
     fmt.Println(i, " => ", word[:1])
   }
 } 
+
+
+// Output:
+// Enter text:
+// Ruby on Rails
+// 0 => R
+// 1 => o
+// 2 => R
